@@ -8,7 +8,7 @@ This repository contains a modern and interactive image gallery built entirely w
 - Responsive design for optimal viewing on various devices
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/your-username/VanillaJS-Image-Gallery.git`
+1. Clone the repository: `git clone [https://github.com/MD-ANIKS/VanillaJS-Image-Gallery.git]`
 2. Open the `index.html` file in your preferred web browser.
 3. Explore the image gallery and enjoy the seamless user experience.
 
